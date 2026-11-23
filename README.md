@@ -6,7 +6,7 @@ Computer Science graduate focused on DevOps and cloud. I am building hands-on pr
 
 - **Linux:** Ubuntu command line, shell scripting with Bash
 - **Containers and web servers:** Docker, Nginx
-- **Cloud:** AWS (EC2)
+- **Cloud:** AWS 
 - **Version control:** Git and GitHub
 - **Programming:** Python
 
